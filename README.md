@@ -4,6 +4,8 @@ This project is a Todo app built using React and Taquito. The app allows users t
 
 What makes this project different and unique is its use of the Tezos blockchain to store and manage tasks. By using a decentralized platform like Tezos, the app ensures that user data is secure and transparent.
 
+live demo: https://todo-tezos.netlify.app
+
 React Template inspired from https://github.com/vivekascoder/react-tezos-template
 ## Setup
 
