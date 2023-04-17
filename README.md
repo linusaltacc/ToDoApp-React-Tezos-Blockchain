@@ -6,7 +6,12 @@ What makes this project different and unique is its use of the Tezos blockchain 
 
 live demo: https://todo-tezos.netlify.app
 
+Demo:
+
+![demo-gif](demo/todo-tezos.gif)
+
 React Template inspired from https://github.com/vivekascoder/react-tezos-template
+
 ## Setup
 
 Install dependencies
